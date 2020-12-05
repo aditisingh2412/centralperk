@@ -1,2 +1,2 @@
 # centralperk
-This is a mockup restauran website that I created using HTML, CSS and JavaScript.
+This is a mockup restaurant website that I created using HTML, CSS and JavaScript.
